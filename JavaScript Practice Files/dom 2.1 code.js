@@ -2,7 +2,8 @@
 let para1 = document.querySelector("p");
 console.log(para1.getAttribute("class"));
 
-//To get the attribute value and change the value
+//To get the attribute value and overwrites the value
+//For this overwriting issue, classList is used (DOM 2.2 Practice.js)
 let para2 = document.querySelector("p");
 console.log(para2.setAttribute("class","newclass"));
 
