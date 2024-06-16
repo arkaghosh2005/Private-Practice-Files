@@ -1,1 +1,1 @@
-//Go to mdn web docs for All Event types
+//Go to mdn web docs for All types of Event Handeling
