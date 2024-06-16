@@ -1,0 +1,15 @@
+#box1{
+    height: 30px;
+    width: 100px;
+    background-color: blue;
+    color: white;
+    border: 1px solid black;
+}
+
+#box2{
+    height: 170px;
+    width: 100px;
+    background-color: purple;
+    color: white;
+    border: 1px solid black;
+}
