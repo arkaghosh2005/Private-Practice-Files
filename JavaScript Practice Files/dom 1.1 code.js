@@ -19,7 +19,7 @@ console.log(paras);
 //Use this as it can be used for upper 3 selections
 //This will return only first element found
 //For p, nothing needs to be used
-//For class, use dot in ftont
+//For class, use dot in front
 //For id, use hash in front
 let element = document.querySelector("p");
 console.dir(element);
