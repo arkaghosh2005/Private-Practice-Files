@@ -38,7 +38,7 @@ function getdata(dataid, getnextdata) {
         console.log("Data (Topic: 2.2): ", dataid);
         if(getnextdata)
             getnextdata();
-    }, 5000); //Will return data after 2 sec
+    }, 5000); //Will return data after 5 sec
 };
 //The Nested Callback Syntax: <function name>(<data1>, () => { <function name>(<data2>, <...>) });
 //This is Nested Callback Hell
